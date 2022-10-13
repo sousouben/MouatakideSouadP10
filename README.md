@@ -12,8 +12,13 @@ Objectif est de permettre à tout élève, où qu’il soit, d’avoir accès à
 
 ##Maquettes 
 
+https://www.figma.com/file/SGu0IJxt1KnQzra3P3SW6d/Learn%40Home-souad-mouatakide?node-id=0%3A1
+
+https://www.figma.com/file/SGu0IJxt1KnQzra3P3SW6d/Learn%40Home-souad-mouatakide?node-id=1%3A2
+
 
 ###Kanban
+
 https://pretty-hovercraft-15f.notion.site/Dev4U-projet-Learn-Home-2cb80292c81f4c4d841c979a95d7b95a
 
 ####User Stories voir pdf
