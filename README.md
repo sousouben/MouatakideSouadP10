@@ -12,8 +12,10 @@ Objectif est de permettre à tout élève, où qu’il soit, d’avoir accès à
 
 ##Maquettes 
 
+Maquette desktop
 https://www.figma.com/file/SGu0IJxt1KnQzra3P3SW6d/Learn%40Home-souad-mouatakide?node-id=0%3A1
 
+Maquette mobile
 https://www.figma.com/file/SGu0IJxt1KnQzra3P3SW6d/Learn%40Home-souad-mouatakide?node-id=1%3A2
 
 
